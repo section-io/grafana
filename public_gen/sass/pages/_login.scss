@@ -34,7 +34,7 @@
 }
 
 .login-inner-box {
-  background: $panel-bg;
+  background: #e9ecef;
   text-align: center;
 }
 
@@ -162,15 +162,14 @@
   bottom: 0;
   height: 100%;
   width: 100%;
-  background-image: url(../img/background_tease.jpg);
-  opacity: 0.3;
+  background: #f8f9fa;
   z-index: -1;
 }
 
 .invite-box {
   text-align: center;
   border: 1px solid $tight-form-func-bg;
-  background-color: $panel-bg;
+  background-color: #e9ecef;
   max-width: 800px;
   margin-left: auto;
   margin-right: auto;

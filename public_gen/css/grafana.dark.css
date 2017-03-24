@@ -8493,7 +8493,7 @@ json-tree .json-tree-branch-preview {
     text-shadow: 3px 3px 5px black; }
 
 .login-inner-box {
-  background: #1f1d1d;
+  background: #e9ecef;
   text-align: center; }
 
 .login-tab-header {
@@ -8590,14 +8590,13 @@ json-tree .json-tree-branch-preview {
   bottom: 0;
   height: 100%;
   width: 100%;
-  background-image: url(../img/background_tease.jpg);
-  opacity: 0.3;
+  background: #f8f9fa;
   z-index: -1; }
 
 .invite-box {
   text-align: center;
   border: 1px solid #333;
-  background-color: #1f1d1d;
+  background-color: #e9ecef;
   max-width: 800px;
   margin-left: auto;
   margin-right: auto; }
