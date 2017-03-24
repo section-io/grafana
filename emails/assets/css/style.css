@@ -21,20 +21,20 @@ h6 {font-size: 16px;}
 }
 
 a {
-  color: #E67612;
+  color: #006dfe;
   text-decoration: none;
 }
 
 a:hover {
-  color: #ff8f2b !important;
+  color: #1862ab !important;
 }
 
 a:active {
-  color: #F2821E !important;
+  color: #1862ab !important;
 }
 
 a:visited {
-  color: #E67612 !important;
+  color: #006dfe !important;
 }
 
 table.facebook td {
@@ -89,7 +89,7 @@ margin-bottom: 25px;
 }
 
 .footer {
-  background-color: #2e2e2e;
+  background-color: #f8f9fa;
   color: #999999;
   margin-top: 20px;
 }
@@ -127,15 +127,15 @@ table.columns td.better-button {
   border-radius: 2px;
 
   padding: 12px 25px;
-  border: 1px solid #ff8f2b;
+  border: 1px solid #1862ab;
   display: inline-block;
   color: #FFF;
 }
 
 .better-button:hover a {
   color: #FFFFFF !important;
-  background-color: #F2821E;
-  border: 1px solid #F2821E;
+  background-color: #1862ab;
+  border: 1px solid #1862ab;
 }
 
 .better-button:visited a {
@@ -165,24 +165,24 @@ table.columns td.better-button-alt {
   border-radius: 2px;
 
   padding: 12px 25px;
-  border: 1px solid #ff8f2b;
+  border: 1px solid #1862ab;
   background-color: #EFEFEF;
   display: inline-block;
-  color: #ff8f2b;
+  color: #1862ab;
 }
 
 .better-button-alt:hover a {
-  color: #ff8f2b !important;
+  color: #1862ab !important;
   background-color: #DDDDDD;
-  border: 1px solid #F2821E;
+  border: 1px solid #1862ab;
 }
 
 .better-button-alt:visited a {
-  color: #ff8f2b !important;
+  color: #1862ab !important;
 }
 
 .better-button-alt:active a {
-  color: #ff8f2b !important;
+  color: #1862ab !important;
 }
 
 .verification-code {
