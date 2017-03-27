@@ -8509,10 +8509,10 @@ json-tree .json-tree-branch-preview {
   font-weight: bold;
   display: inline-block;
   width: 170px;
-  color: #555555; }
+  color: #005FFF; }
   .btn-login-tab.active {
     background: #e4e7ee;
-    color: #fff; }
+    color: #005FFF; }
   .btn-login-tab:focus {
     outline: 0; }
 

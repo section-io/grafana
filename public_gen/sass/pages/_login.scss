@@ -52,7 +52,7 @@
 
   &.active {
     background: darken($tight-form-bg, 5%);
-    color: $white;
+    color: #005FFF;
   }
 
   &:focus {
@@ -62,7 +62,7 @@
   font-weight: bold;
   display: inline-block;
   width: 170px;
-  color: $text-color;
+  color: #005FFF;
 }
 
 .password-strength {

@@ -9401,10 +9401,10 @@ json-tree .json-tree-branch-preview {
   font-weight: bold;
   display: inline-block;
   width: 170px;
-  color: #D8D9DA; }
+  color: #005FFF; }
   .btn-login-tab.active {
     background: #1c1c1c;
-    color: #fff; }
+    color: #005FFF; }
   .btn-login-tab:focus {
     outline: 0; }
 
